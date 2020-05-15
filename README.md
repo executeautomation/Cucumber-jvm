@@ -7,3 +7,6 @@ The TypeRegistryConfigurer however is not part of the glue. This made it impossi
 
 Here is the complete video discussion
 https://youtu.be/jCzpxvAJoZM
+
+
+![Cucumber-JVM](./image/cucumber5.JPG)
