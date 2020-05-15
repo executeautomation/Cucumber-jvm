@@ -9,4 +9,4 @@ Here is the complete video discussion
 https://youtu.be/jCzpxvAJoZM
 
 
-![Cucumber-JVM](./image/cucumber5.JPG)
+![Cucumber-JVM](./image/cucumber5.jpg)
