@@ -55,8 +55,8 @@ public class MyStepdefs {
     @Given("some more information")
     public void someMoreInformation(JsonNode jsonNode) {
 
-        var name = jsonNode.get("Name");
-        var company = jsonNode.get("Company");
+        String name = jsonNode.get("Name");
+        String company = jsonNode.get("Company");
 
         System.out.println("Name " + name + ", Company " + company);
 
